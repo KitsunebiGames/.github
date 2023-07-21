@@ -7,3 +7,5 @@ I provide software development and consulting services for multimedia software; 
  * Game development and porting work
 
 I additionally take corporate sponsorships for Inochi2D through Kitsunebi Games for accounting purposes.
+
+In this organisation you'll find all the open source projects that Kitsunebi Games maintains.
