@@ -1,5 +1,5 @@
 # Kitsunebi Games EMV
-Kitsunebi Games is an Enkeltmandsvirksomhed (Sole proprietorship) based in Denmark, run by @LunaTheFoxgirl.  
+Kitsunebi Games is an Enkeltmandsvirksomhed (Sole proprietorship) based in Denmark, run by [Luna](https://github.com/LunaTheFoxgirl).  
 I provide software development and consulting services for multimedia software; such as
  * Integration help for Inochi2D to engines of your choice
  * Game Engine development work
