@@ -14,6 +14,19 @@ In this organisation you'll find all the open source projects that Kitsunebi Gam
 ## Projects
  * [Inochi2D](https://inochi2d.com)  
    I am the lead developer of Inochi2D and have an intimate understanding of its structure and tools and can adapt it to the needs of your game production pipeline.
+   With Inochi2D I maintain [Inochi Creator](https://github.com/Inochi2D/inochi-creator) and [Inochi Session](https://github.com/Inochi2D/inochi-session), which uses ImGui for UI rendering.  
+   [Inochi2D Unity](https://github.com/Inochi2D/com.inochi2d.inochi2d-unity) is a Unity port and integration of Inochi2D which I am working on.
+
+&nbsp;
+
+ * Game Engines & Tooling  
+   I have a relatively big portfolio of [custom made game engines](https://github.com/LunaTheFoxgirl/vtjam-engine) on my personal GitHub account, I additionally have contributed to engines such as [ZyeWare](https://github.com/zyebytevt/zyeware).  
+   I also contribute and maintain various game development related libraries, such as [inmath](https://code.dlang.org/packages/inmath) and [audio-formats](https://code.dlang.org/packages/audio-formats).
+
+&nbsp;
+
+ * Game Jams  
+   I have participated in various game jams, such as [Ludum Dare 39 (Unity)](https://ldjam.com/events/ludum-dare/39/rootemergency), [Linux Game Jam 2018 (Custom Engine)](https://itch.io/jam/linux-game-jam-2018/rate/245195), [VTuber Game Jam 1 (Custom Engine)](https://lunafoxgirlvt.itch.io/danmaku-1) and [VTuber Game Jam 2 (Custom Engine)](https://nethyr-ai.itch.io/behind-masked-hearts)
 
 &nbsp;
 
