@@ -11,6 +11,22 @@ I additionally take corporate sponsorships for Inochi2D through Kitsunebi Games 
 
 In this organisation you'll find all the open source projects that Kitsunebi Games maintains.
 
+## Experience
+### Programming Languages
+ * C# (11 years)
+ * C++ (5 years)
+ * C (5 years)
+ * Python (11 years)
+ * DLang (5 years)
+
+### Engines and Toolkits
+ * Unity
+ * Godot
+ * XNA/MonoGame/FNA
+ * OpenGL (+ ES)
+ * Vulkan
+ * WebGPU
+
 ## Projects
  * [Inochi2D](https://inochi2d.com)  
    I am the lead developer of Inochi2D and have an intimate understanding of its structure and tools and can adapt it to the needs of your game production pipeline.
