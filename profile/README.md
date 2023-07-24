@@ -13,6 +13,10 @@ I additionally take corporate sponsorships for Inochi2D through Kitsunebi Games 
 
 In this organisation you'll find all the open source projects that Kitsunebi Games maintains.
 
+## Company Info
+CVR: 44 19 73 75
+Email: luna@foxgirls.gay
+
 ## Experience
 ### Programming Languages
  * C# (11 years)
